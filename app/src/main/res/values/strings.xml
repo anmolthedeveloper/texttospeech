@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="action_settings">About developer</string>
+
+    <string-array name="workout_types">
+        <item>English</item>
+        <item>Chinese</item>
+    </string-array>
+    <string name="title_activity_developer_">AnmolTheDeveloper</string>
+</resources>
